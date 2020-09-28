@@ -5,6 +5,5 @@ export class HelloWo {
 }
 
 //comment1
-
 let hw = new HelloWo();
 hw.SayHi();
